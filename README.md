@@ -10,7 +10,7 @@ I am a Pre Final Year Student at Sardar Patel Institute Of Technology currently 
 Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking for Open-Source Projects to collaborate on? Check out my <a href="./OPEN-SOURCE-PROJECTS.md">Open-Source Projects</a> and reach out to me if you would like to contribute or maintain.
    </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=harshcsper" alt="harshcsper" /> 
+  <img src="https://komarev.com/ghpvc/?username=vieee" alt="vieee" /> 
 </p>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
