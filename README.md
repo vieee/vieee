@@ -20,11 +20,11 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%ffdf87B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%97BC62FF.svg?&style=for-the-badge&logo=firebase&logoColor=red" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/electron%20-%F2AA4CFF.svg?&style=for-the-badge&logo=electron&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/firebase%20-%97BC62FF.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/electron%20-%F2AA4CFF.svg?&style=for-the-badge&logo=electron&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/neo4j%20-%231572B6.svg?&style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/graphql%20-%9CC3D5FF.svg?&style=for-the-badge&logo=graphql&logoColor=blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/graphql%20-%9CC3D5FF.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/php%20-%EA738DFF.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
 </p>
