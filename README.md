@@ -26,7 +26,7 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
   <img src="https://img.shields.io/badge/neo4j%20-%231572B6.svg?&style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/graphql%20-%9CC3D5FF.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php%20-%EA738DFF.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/php%20-%EA738DFF.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
