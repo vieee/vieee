@@ -7,7 +7,7 @@
 I am a Pre Final Year Student at Sardar Patel Institute Of Technology currently undertaking my Bachelors in Information Technology. I play chess and listen to songs quite often. I'm a Software Developer with an experience in Development and Analysis with particular experience in Web, Machine Learning and Cloud Technologies. 
   </samp><br><br>
   <samp>
-Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking for Open-Source Projects to collaborate on? Check out my <a href="./OPEN-SOURCE-PROJECTS.md">Open-Source Projects</a> and reach out to me if you would like to contribute or maintain.
+Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking to reach out to me, <a href="#contact">contact me at..</a>
    </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=vieee" alt="vieee" /> 
@@ -34,7 +34,7 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
 <img src="https://github-readme-stats.vercel.app/api?username=vieee&layout=compact&hide=html&theme=jolly" alt="vieee" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center" id="contact">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/deepak-yadav-4a2b8518b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/DeepakY06982993"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
