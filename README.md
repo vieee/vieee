@@ -44,6 +44,16 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
 </p>
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
-<p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
-</p>
+<p align="center" id="image"></p>
+<!--<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"> --!>
+
+<script>
+  let request = new XMLHttpRequest()
+  request.open("GET",`https://meme-api.herokuapp.com/gimme/${Math.floor(Math.random() * 100) + 1}`);
+  request.send();request.onload = () => {if(request.status === 200){document.getElementById("image").innerHTML = request.response.memes[0].url;
+  } else {
+    document.getElementById("image").innerHTML = "Meme not visible.., Kindly reload.. Fun awaiting your way..!!!";
+  }
+}
+</script>
+
