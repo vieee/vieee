@@ -47,7 +47,7 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
 <p align="center" id="image"></p>
 <!--<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"> --!>
 
-<script>
+<script type="text/javascript">
   var integer = Math.floor(Math.random() * 100) + 1;
   let request = new XMLHttpRequest()
   request.open("GET","https://meme-api.herokuapp.com/gimme/" + integer);
