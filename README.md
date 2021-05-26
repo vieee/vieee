@@ -43,17 +43,12 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
   <a href="https://www.facebook.com/cleverdeepak"><img src="https://img.shields.io/badge/facebook-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center" id="image">
 <!--<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"> --!>
 
 <img src="https://i.redd.it/4ojh1gmcgay61.jpg" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 
-</p> -->
-
-<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
-<p align="center">
-<p align="center" id="image"></p>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
-<!--<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"> --!>
 </p>
+
+
