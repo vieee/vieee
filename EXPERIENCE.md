@@ -12,7 +12,6 @@ As part of the Frontend Team, responsible for the development of the components 
 As a part of the Technical team, established a network to transfer feedback data for project to respective team assignee in Excel. Created a back-end MySQL database ensuring robust storage and built a VBA layout for data entry task.
 
 - Auto track cases with respect to users.
-- Pitch in the usage of DeepSource for Static Code Analysis with the CI/CD Toolchain.
-- Write Technical Blogs and contribute to the Documentation at DeepSource Docs.
-- Leverage the power of DeepSource to help Developers ship good Code.
+- Pitch in the usage of One Drive through feedback analysis with the VBA Toolchain.
+- Assign relevant task load upon respective staff in the organization.
 
