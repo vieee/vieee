@@ -4,7 +4,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Pre Final Year Student at Sardar Patel Institute Of Technology currently undertaking my Bachelors in Information Technology. I play chess and listen to songs quite often. I'm a Software Developer with an experience in Development and Analysis with particular experience in Web, Machine Learning and Cloud Technologies. 
+I am a Final Year Student at Sardar Patel Institute Of Technology currently undertaking my Bachelors in Information Technology. I play chess and listen to songs quite often. I'm a Software Developer with an experience in Development and Analysis with particular experience in Web, Machine Learning and Cloud Technologies. 
   </samp><br><br>
   <samp>
 Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking to reach out to me, <a href="#contact">contact me at..</a>
