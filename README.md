@@ -44,9 +44,9 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
 </p>
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
-
-<img src='https://get-me-a-meme.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="450" align="center" /> 
-
+<p style="align: center;">
+<img src='https://get-me-a-meme.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="450" /> 
+</p>
 
 
 
