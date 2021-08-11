@@ -1,3 +1,11 @@
+## IETE-SPIT Web Development Session Speaker - [IETE-SPIT, The Institution of Electronics and Telecommunication Engineers, S.P.I.T.](https://iete.spit.ac.in/)
+
+- Conducted a Hands-On Web Development Seminar on Saturday & Sunday,
+- Mentored studnets .
+- Supervising [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): An Open-Source Project under Tesseract Coding.
+- Mentored Students in the field of Development, Open-Source and Community Building.
+
+
 ## GSSOC Participant - [GSSOC](https://www.gssoc.girlscript.tech/)
 
 - Primary Responsibility towards promoting Events and Workshops.
