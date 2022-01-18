@@ -5,7 +5,7 @@ As part of the Frontend Team, responsible for the development of the components 
 - Collaborated in developing Barcode reader, QR Code reader, product catalogue on the website.
 - Followed Agile methodology of Documentation Development for regular User-Centric Updates.
 
-## Technical Intern - [The Innovation Story](https://www.zaubacorp.com/company/EDUNNOVATE-TECHNOLOGIES-PRIVATE-LIMITED/U80903MH2020PTC352425)
+## Application Developer - [The Innovation Story](https://www.zaubacorp.com/company/EDUNNOVATE-TECHNOLOGIES-PRIVATE-LIMITED/U80903MH2020PTC352425)
 
 As a part of the Technical team, established a network to transfer feedback data for project to respective team assignee in Excel. Created a back-end MySQL database ensuring robust storage and built a VBA layout for data entry task.
 
